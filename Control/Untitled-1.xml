@@ -1,0 +1,56 @@
+<DataList>
+    <TotalSumCnt>500</TotalSumCnt>
+    <TotalCnt>100</TotalCnt>
+    <Items>
+        <GI_No>36411674</GI_No>
+        <C_URL>http://www.jobkorea.co.kr/Recruit/Co_Read/C/chunghogil?Oem_Code=C900&api=483</C_URL>
+        <C_Name>나이스엔지니어링㈜</C_Name>
+        <GI_Subject>㈜청호 나이스 엔지니어링 프리랜서 모집( 강원 원주시 )</GI_Subject>
+        <GI_Part_No>1000007,1000082</GI_Part_No>
+        <GI_Career>4</GI_Career>
+        <GI_Career_Year_Cnt/>
+        <GI_Pay>0</GI_Pay>
+        <GI_Pay_Term>0,0</GI_Pay_Term>
+        <GI_Pay_Flag>1</GI_Pay_Flag>
+        <GI_EDU_CutLine>3</GI_EDU_CutLine>
+        <GI_Edu_Options>1</GI_Edu_Options>
+        <GI_Keyword>렌탈,렌탈영업</GI_Keyword>
+        <GI_Pass_Type>111100</GI_Pass_Type>
+        <GI_Job_Type>6,7</GI_Job_Type>
+        <Staff>3</Staff>
+        <Jikgub>6</Jikgub>
+        <AreaCode>A090</AreaCode>
+        <GI_End_Date>20210103</GI_End_Date>
+        <JK_URL>http://www.jobkorea.co.kr/Recruit/GI_Read/32832590?Oem_Code=C900&api=483</JK_URL>
+        <GI_W_Date>20201005</GI_W_Date>
+        <GI_E_Date>20201012</GI_E_Date>
+        <GI_E_Time>95703397</GI_E_Time>
+        <Biz_No>4338101168</Biz_No>
+    </Items>
+    <Items>
+        <GI_No>36428007</GI_No>
+        <C_URL>http://www.jobkorea.co.kr/Recruit/Co_Read/C/1004jjj?Oem_Code=C900&api=483</C_URL>
+        <C_Name>재단법인 한국나눔장학재단</C_Name>
+        <GI_Subject>(재)한국나눔장학재단 고객관리팀 TM 정규직 모집</GI_Subject>
+        <GI_Part_No>1000049,1000092,1000089,1000091,1000085</GI_Part_No>
+        <GI_Career>2</GI_Career>
+        <GI_Career_Year_Cnt>1</GI_Career_Year_Cnt>
+        <GI_Pay>2</GI_Pay>
+        <GI_Pay_Term>0,240</GI_Pay_Term>
+        <GI_Pay_Flag>0</GI_Pay_Flag>
+        <GI_EDU_CutLine>3</GI_EDU_CutLine>
+        <GI_Edu_Options>0</GI_Edu_Options>
+        <GI_Keyword>연맹,협회,NGO,고객관리,아웃바운드TM,회원관리,고객상담,고객응대,고객지원,인바운드TM,CS</GI_Keyword>
+        <GI_Pass_Type>100000</GI_Pass_Type>
+        <GI_Job_Type>1</GI_Job_Type>
+        <Staff>1</Staff>
+        <Jikgub/>
+        <AreaCode>F000,F010,F020,F030,F040,F050,F060,F070,F080</AreaCode>
+        <GI_End_Date>20201014</GI_End_Date>
+        <JK_URL>http://www.jobkorea.co.kr/Recruit/GI_Read/32850467?Oem_Code=C900&api=483</JK_URL>
+        <GI_W_Date>20201006</GI_W_Date>
+        <GI_E_Date>20201012</GI_E_Date>
+        <GI_E_Time>95645650</GI_E_Time>
+        <Biz_No>6718200093</Biz_No>
+    </Items>
+</DataList>

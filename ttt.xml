@@ -1,0 +1,3963 @@
+<?xml version="1.0"?>
+<job-search>
+<jobs count='110' start='0' total='6190'>
+<job>
+<id>38783256</id>
+<url></url>
+<active>1</active>
+<posting-timestamp>1600181940</posting-timestamp>
+<posting-date>2020-09-15T23:59:00+0900</posting-date>
+<modification-timestamp>1600182181</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href=''>
+<![CDATA[ 와이비엠 잉글루 학원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 2020년 하반기 영어 경력사원 채용 ]]>
+</title>
+<location code='104020'>
+<![CDATA[ 대구 &gt; 달서구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='611'>외국어·어학원</job-category>
+<industry-keyword-code>60205</industry-keyword-code>
+<job-category-keyword-code>61101</job-category-keyword-code>
+<experience-level code='2' min='2' max='0'>경력2년↑</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>3</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>보습학원,영어</keyword>
+<salary code='8'>2,200~2,400만원</salary>
+</job>
+<job>
+<id>38783255</id>
+<url></url>
+<active>1</active>
+<posting-timestamp>1600181731</posting-timestamp>
+<posting-date>2020-09-15T23:55:31+0900</posting-date>
+<modification-timestamp>1600181731</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=8272900712&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 위례중앙타워 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 홈페이지관리 , 마케팅, 홍보담당 채용 - 경력무관 ]]>
+</title>
+<location code='102200'>
+<![CDATA[ 경기 &gt; 성남시 수정구 ]]>
+</location>
+<job-type code='1,10,14,2'>정규직,계약직 (정규직 전환가능),파트,계약직</job-type>
+<industry code='304'>쇼핑몰·오픈마켓</industry>
+<job-category code='102,104,119'>총무·법무·사무,홍보·PR·사보,마케팅·광고·분석</job-category>
+<industry-keyword-code>30403</industry-keyword-code>
+<job-category-keyword-code>10210,10401,10413,10415,11907,11912,11914</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>1</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>쇼핑몰,브랜드,사무,온라인마케팅,이벤트,입소문·바이럴,프로모션,홍보</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783254</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783254&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600181679</posting-timestamp>
+<posting-date>2020-09-15T23:54:39+0900</posting-date>
+<modification-timestamp>1600182417</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=8749000983&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 뿌리깊은영어학원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [경력사원] 외국어·어학원 정규직 모집 공고 ]]>
+</title>
+<location code='104040'>
+<![CDATA[ 대구 &gt; 동구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='611'>외국어·어학원</job-category>
+<industry-keyword-code>60205|60211</industry-keyword-code>
+<job-category-keyword-code>61101</job-category-keyword-code>
+<experience-level code='2' min='3' max='0'>경력3년↑</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>2</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>보습학원,영어학원,영어</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783253</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783253&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600181558</posting-timestamp>
+<posting-date>2020-09-15T23:52:38+0900</posting-date>
+<modification-timestamp>1600214802</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1604069999</expiration-timestamp>
+<expiration-date>2020-10-30T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=7528600876&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)머쉬룸블랙 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 방송연출·PD·감독(PD·연출外 4개 부문) 채용 ]]>
+</title>
+<location code='101200'>
+<![CDATA[ 서울 &gt; 영등포구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='502'>방송사·케이블</industry>
+<job-category code='711'>방송연출·PD·감독</job-category>
+<industry-keyword-code>50201|50202|50204</industry-keyword-code>
+<job-category-keyword-code>71101,71103,71104,71105,71106</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>4</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>공중파방송,인터넷방송,케이블방송,AD·조연출,FD·연출보조,PD·연출,방송기획,방송제작</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783252</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783252&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600181379</posting-timestamp>
+<posting-date>2020-09-15T23:49:39+0900</posting-date>
+<modification-timestamp>1600219232</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1603205999</expiration-timestamp>
+<expiration-date>2020-10-20T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=8962601055&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 톡스앤필의원 대구동성로점 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [톡스앤필 대구동성로점]전파트(상담,코디,간호,피부) 채용 공고 ]]>
+</title>
+<location code='104080'>
+<![CDATA[ 대구 &gt; 중구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='701'>의료(진료과목별)</industry>
+<job-category code='1111,1305,1307'>미용·피부관리·애견,간호조무사,사무·원무·코디</job-category>
+<industry-keyword-code>70108|70117</industry-keyword-code>
+<job-category-keyword-code>111105,130501,130703</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>34</read-cnt>
+<apply-cnt>3</apply-cnt>
+<keyword>성형외과,피부과,간호조무사,병원코디네이터,피부관리·에스테틱</keyword>
+<salary code='12'>3,000~3,200만원</salary>
+</job>
+<job>
+<id>38783251</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783251&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600181322</posting-timestamp>
+<posting-date>2020-09-15T23:48:42+0900</posting-date>
+<modification-timestamp>1600181619</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1601477999</expiration-timestamp>
+<expiration-date>2020-09-30T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=5596500419&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 인쌩맥주 검단사거리점 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 인쌩맥주 인천 서구 검단점 주방 매니저 채용 ]]>
+</title>
+<location code='108070'>
+<![CDATA[ 인천 &gt; 서구 ]]>
+</location>
+<job-type code='2,9'>계약직,프리랜서</job-type>
+<industry code='109'>외식업·식음료</industry>
+<job-category code='1112'>요리·제빵사·영양사</job-category>
+<industry-keyword-code>10917</industry-keyword-code>
+<job-category-keyword-code>111210,111212</job-category-keyword-code>
+<experience-level code='2' min='0' max='1'>경력1년↓</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>3</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>프랜차이즈,주방보조,주방장</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783250</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783250&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600181262</posting-timestamp>
+<posting-date>2020-09-15T23:47:42+0900</posting-date>
+<modification-timestamp>1600181406</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1604069999</expiration-timestamp>
+<expiration-date>2020-10-30T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=6178169562&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)디비텍 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 라벨 편집디자이너 신입 및 경력 모집 ]]>
+</title>
+<location code='106020'>
+<![CDATA[ 부산 &gt; 금정구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='509'>출판·인쇄·사진</industry>
+<job-category code='1202'>출판·편집디자인</job-category>
+<industry-keyword-code>50902|50903</industry-keyword-code>
+<job-category-keyword-code>120201</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='6'>고등학교졸업이상</required-education-level>
+</position>
+<read-cnt>7</read-cnt>
+<apply-cnt>1</apply-cnt>
+<keyword>인쇄·제본,편집,편집디자인</keyword>
+<salary code='8'>2,200~2,400만원</salary>
+</job>
+<job>
+<id>38783249</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783249&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600181153</posting-timestamp>
+<posting-date>2020-09-15T23:45:53+0900</posting-date>
+<modification-timestamp>1600182215</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2317100093&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 제이엔티에스 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 2020년 스케쥴러 급구합니다./늦은출근 빠른퇴근(칼퇴보장) ]]>
+</title>
+<location code='102140'>
+<![CDATA[ 경기 &gt; 부천시 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='306'>네트워크·통신·모바일</industry>
+<job-category code='210,410'>TM·아웃바운드,통신·모바일</job-category>
+<industry-keyword-code>30602</industry-keyword-code>
+<job-category-keyword-code>21004,41006</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>6</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>통신,광통신,인터넷·통신</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783248</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783248&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600181136</posting-timestamp>
+<posting-date>2020-09-15T23:45:36+0900</posting-date>
+<modification-timestamp>1600181136</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1601045999</expiration-timestamp>
+<expiration-date>2020-09-25T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=5418601159&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)셀러비전 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 2020년 하반기 웹 퍼블리셔 경력직 채용 공고 ]]>
+</title>
+<location code='101040'>
+<![CDATA[ 서울 &gt; 강서구 ]]>
+</location>
+<job-type code='10,2'>계약직 (정규직 전환가능),계약직</job-type>
+<industry code='511'>디자인·설계</industry>
+<job-category code='1203,1207,1209'>제품·산업디자인,디자인기타,광고·시각디자인</job-category>
+<industry-keyword-code>51108</industry-keyword-code>
+<job-category-keyword-code>120302,120701,120903</job-category-keyword-code>
+<experience-level code='2' min='3' max='0'>경력3년↑</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>1</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>광고디자인,광고디자인,기타디자인,산업디자인</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783246</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783246&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600180662</posting-timestamp>
+<posting-date>2020-09-15T23:37:42+0900</posting-date>
+<modification-timestamp>1600180794</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1602752400</expiration-timestamp>
+<expiration-date>2020-10-15T18:00:00+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=5828601581&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 이노베이션티(주) ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [이노베이션티] 영어콘텐츠 지원사업팀 사무직 (정규직) 모집합 ]]>
+</title>
+<location code='105040'>
+<![CDATA[ 대전 &gt; 유성구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='302'>웹에이젼시</industry>
+<job-category code='102'>총무·법무·사무</job-category>
+<industry-keyword-code>30201</industry-keyword-code>
+<job-category-keyword-code>10210,10217</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>19</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>웹에이전시,문서관리,사무</keyword>
+<salary code='8'>2,200~2,400만원</salary>
+</job>
+<job>
+<id>38783245</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783245&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600180300</posting-timestamp>
+<posting-date>2020-09-15T23:31:40+0900</posting-date>
+<modification-timestamp>1600180300</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=8159000169&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 창원글로리안과 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 창원글로리안과 피부관리사 모집 ]]>
+</title>
+<location code='110150'>
+<![CDATA[ 경남 &gt; 창원시 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='702'>의료(병원종류별)</industry>
+<job-category code='1111'>미용·피부관리·애견</job-category>
+<industry-keyword-code>70203</industry-keyword-code>
+<job-category-keyword-code>111105,111110</job-category-keyword-code>
+<experience-level code='2' min='1' max='0'>경력1년↑</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>6</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>전문병원,마사지,피부관리·에스테틱</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783244</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783244&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600180251</posting-timestamp>
+<posting-date>2020-09-15T23:30:51+0900</posting-date>
+<modification-timestamp>1600180251</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=6099185328&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 열린한의원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 한의원 간호조무사분 모십니다. ]]>
+</title>
+<location code='110150'>
+<![CDATA[ 경남 &gt; 창원시 ]]>
+</location>
+<job-type code='1,10,2'>정규직,계약직 (정규직 전환가능),계약직</job-type>
+<industry code='701'>의료(진료과목별)</industry>
+<job-category code='1305'>간호조무사</job-category>
+<industry-keyword-code>70110</industry-keyword-code>
+<job-category-keyword-code>130501,130505</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='6'>고등학교졸업이상</required-education-level>
+</position>
+<read-cnt>21</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>한의원,간호조무사,한의원</keyword>
+<salary code='8'>2,200~2,400만원</salary>
+</job>
+<job>
+<id>38783243</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783243&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600180241</posting-timestamp>
+<posting-date>2020-09-15T23:30:41+0900</posting-date>
+<modification-timestamp>1600182139</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1988118000</expiration-timestamp>
+<expiration-date>2033-01-01T00:00:00+0900</expiration-date>
+<close-type code='2'>채용시</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3471301325&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 블루샥커피 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 블루샥커피(Blu shaak COFFEE) ]]>
+</title>
+<location code='118000'>
+<![CDATA[ 세종 &gt; 세종특별자치시 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='109'>외식업·식음료</industry>
+<job-category code='1107'>외식·식음료</job-category>
+<industry-keyword-code>10901</industry-keyword-code>
+<job-category-keyword-code>110730</job-category-keyword-code>
+<experience-level code='2' min='1' max='3'>경력 1~3년</experience-level>
+<required-education-level code='6'>고등학교졸업이상</required-education-level>
+</position>
+<read-cnt>9</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>음식료,바리스타·커피</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783242</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783242&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600180203</posting-timestamp>
+<posting-date>2020-09-15T23:30:03+0900</posting-date>
+<modification-timestamp>1600180306</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=8128601463&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)평신 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 비금속·요업·신소재(세라믹스 외 1개 부문) 채용 ]]>
+</title>
+<location code='114130'>
+<![CDATA[ 충북 &gt; 청주시 흥덕구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='211'>금속·재료·철강·요업</industry>
+<job-category code='316'>비금속·요업·신소재</job-category>
+<industry-keyword-code>21103|21104|21107</industry-keyword-code>
+<job-category-keyword-code>31602,31605</job-category-keyword-code>
+<experience-level code='1' min='0' max='0'>신입</experience-level>
+<required-education-level code='6'>고등학교졸업이상</required-education-level>
+</position>
+<read-cnt>5</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>세라믹스,신소재,요업,세라믹스,신소재</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783241</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783241&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600180125</posting-timestamp>
+<posting-date>2020-09-15T23:28:45+0900</posting-date>
+<modification-timestamp>1600180125</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=5208101666&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 주식회사 거영 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 생산·제조·포장·조립(생산, 조립 외 1개 부문) 채용합니다 ]]>
+</title>
+<location code='107020'>
+<![CDATA[ 울산 &gt; 동구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='212'>조선·항공·우주</industry>
+<job-category code='315'>생산·제조·포장·조립</job-category>
+<industry-keyword-code>21201|21204</industry-keyword-code>
+<job-category-keyword-code>31501,31502,31508</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>1</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>선박,조선,생산,제조·가공,조립</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783240</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783240&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600180115</posting-timestamp>
+<posting-date>2020-09-15T23:28:35+0900</posting-date>
+<modification-timestamp>1600180115</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3128117683&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 삼우에레코(주) ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [경력 채용] 전자부품 기술지원 BD, FAE 모집(팀원급) ]]>
+</title>
+<location code='101080'>
+<![CDATA[ 서울 &gt; 금천구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='201'>전기·전자·제어</industry>
+<job-category code='202,208'>일반영업,기술영업</job-category>
+<industry-keyword-code>20105|20114</industry-keyword-code>
+<job-category-keyword-code>20208,20805</job-category-keyword-code>
+<experience-level code='3' min='1' max='5'>신입/경력</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>5</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>전기,전자,기술영업(일반),일반영업</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783239</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783239&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600180098</posting-timestamp>
+<posting-date>2020-09-15T23:28:18+0900</posting-date>
+<modification-timestamp>1600180098</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1601477999</expiration-timestamp>
+<expiration-date>2020-09-30T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3529001236&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 커리어파크 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 외국계 기계부품사 Accountant 경력직(계약직 16개월) ]]>
+</title>
+<location code='101010'>
+<![CDATA[ 서울 &gt; 강남구 ]]>
+</location>
+<job-type code='2'>계약직</job-type>
+<industry code='202'>기계·설비·자동차</industry>
+<job-category code='114'>회계·재무·세무·IR</job-category>
+<industry-keyword-code>20205</industry-keyword-code>
+<job-category-keyword-code>11418,11429</job-category-keyword-code>
+<experience-level code='2' min='5' max='0'>경력5년↑</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>1</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>기계,재무회계,회계</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783238</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783238&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600180013</posting-timestamp>
+<posting-date>2020-09-15T23:26:53+0900</posting-date>
+<modification-timestamp>1600180086</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1601305199</expiration-timestamp>
+<expiration-date>2020-09-28T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=6338100959&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)레이커 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 웹디자이너 모집 [카페24/스토어팜] ]]>
+</title>
+<location code='101160'>
+<![CDATA[ 서울 &gt; 성동구 ]]>
+</location>
+<job-type code='1,2,9'>정규직,계약직,프리랜서</job-type>
+<industry code='304'>쇼핑몰·오픈마켓</industry>
+<job-category code='412'>웹디자인</job-category>
+<industry-keyword-code>30401</industry-keyword-code>
+<job-category-keyword-code>41203,41213,41214,41228</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>4</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>전자상거래,HTML ,UI·UX디자인,일러스트레이터,포토샵</keyword>
+<salary code='8'>2,200~2,400만원</salary>
+</job>
+<job>
+<id>38783237</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783237&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179995</posting-timestamp>
+<posting-date>2020-09-15T23:26:35+0900</posting-date>
+<modification-timestamp>1600180024</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=8653500388&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ EB GOLF ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 장은비프로의 대구 골프아카데미 [EB GOLF] 매니저 채용 ]]>
+</title>
+<location code='104070'>
+<![CDATA[ 대구 &gt; 수성구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='115'>레저·스포츠·여가</industry>
+<job-category code='1110'>레저·스포츠</job-category>
+<industry-keyword-code>11501</industry-keyword-code>
+<job-category-keyword-code>111002</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>5</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>스포츠,스포츠</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783236</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783236&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179982</posting-timestamp>
+<posting-date>2020-09-15T23:26:22+0900</posting-date>
+<modification-timestamp>1600180124</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1600700399</expiration-timestamp>
+<expiration-date>2020-09-21T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3608701047&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)스펙트럼 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 사무 및 기획 / 온라인 마케팅 / 신입 및 경력사원 모집 ]]>
+</title>
+<location code='105030'>
+<![CDATA[ 대전 &gt; 서구 ]]>
+</location>
+<job-type code='2'>계약직</job-type>
+<industry code='506'>공연·예술·문화</industry>
+<job-category code='101,207,406'>기획·전략·경영,광고영업,컨텐츠·사이트운영</job-category>
+<industry-keyword-code>50602</industry-keyword-code>
+<job-category-keyword-code>10101,10102,10104,20701,20703,20706,40603,40610,40614</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>14</read-cnt>
+<apply-cnt>1</apply-cnt>
+<keyword>공연기획,게시판관리,광고영업,기획,사업제휴,온라인광고,전략기획,지역광고,컨텐츠운영,컨텐츠제작</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783235</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783235&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179972</posting-timestamp>
+<posting-date>2020-09-15T23:26:12+0900</posting-date>
+<modification-timestamp>1600179972</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=4498701243&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)올리브 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 2020 하반기 생산/제조·가공 경력무관 채용합니다 ]]>
+</title>
+<location code='106070'>
+<![CDATA[ 부산 &gt; 부산진구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='109'>외식업·식음료</industry>
+<job-category code='315'>생산·제조·포장·조립</job-category>
+<industry-keyword-code>10902</industry-keyword-code>
+<job-category-keyword-code>31501,31502</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>11</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>식품·푸드,생산,제조·가공</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783234</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783234&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179954</posting-timestamp>
+<posting-date>2020-09-15T23:25:54+0900</posting-date>
+<modification-timestamp>1600180041</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1601477999</expiration-timestamp>
+<expiration-date>2020-09-30T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=6791400481&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 함소아한의원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 오산 함소아한의원에서 코디네이터를 모집합니다. ]]>
+</title>
+<location code='102390'>
+<![CDATA[ 경기 &gt; 오산시 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='701'>의료(진료과목별)</industry>
+<job-category code='1305,1307'>간호조무사,사무·원무·코디</job-category>
+<industry-keyword-code>70110</industry-keyword-code>
+<job-category-keyword-code>130501,130505,130703</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>7</read-cnt>
+<apply-cnt>1</apply-cnt>
+<keyword>한의원,간호조무사,병원코디네이터,한의원</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783233</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783233&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179835</posting-timestamp>
+<posting-date>2020-09-15T23:23:55+0900</posting-date>
+<modification-timestamp>1600180667</modification-timestamp>
+<opening-timestamp>1600218000</opening-timestamp>
+<expiration-timestamp>1601715600</expiration-timestamp>
+<expiration-date>2020-10-03T18:00:00+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=6262500810&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 몸이야필라테스오치점 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 광주 몸이야필라테스 데스크상담/총괄매니저 채용합니다. ]]>
+</title>
+<location code='103040'>
+<![CDATA[ 광주 &gt; 북구 ]]>
+</location>
+<job-type code='10,2'>계약직 (정규직 전환가능),계약직</job-type>
+<industry code='115'>레저·스포츠·여가</industry>
+<job-category code='203,212'>판매·매장관리,고객센터·CS</job-category>
+<industry-keyword-code>11506|11520</industry-keyword-code>
+<job-category-keyword-code>20320,21201,21202,21204,21205,21213</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>9</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>스포츠센터,요가학원,CS,고객불만처리,고객상담,고객응대,안내·프런트,회원관리</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783232</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783232&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179708</posting-timestamp>
+<posting-date>2020-09-15T23:21:48+0900</posting-date>
+<modification-timestamp>1600179784</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1988118000</expiration-timestamp>
+<expiration-date>2033-01-01T00:00:00+0900</expiration-date>
+<close-type code='2'>채용시</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=4288600269&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)피플케어코리아 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 중견기업 경영기획팀장 ]]>
+</title>
+<location code='101010'>
+<![CDATA[ 서울 &gt; 강남구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='903'>환경·설비</industry>
+<job-category code='101,113'>기획·전략·경영,인사·교육·노무</job-category>
+<industry-keyword-code>90304|90305|90307|90312</industry-keyword-code>
+<job-category-keyword-code>10101,10102,10105,10108,10111,11301,11312,11317,11320</job-category-keyword-code>
+<experience-level code='2' min='13' max='0'>경력13년↑</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>6</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>공조냉동,전기설비,플랜트,환경,HRD·HRM,경영기획,기획,인사,인사기획,인사평가,전략기획,조직관리,타당성분석</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783231</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783231&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179681</posting-timestamp>
+<posting-date>2020-09-15T23:21:21+0900</posting-date>
+<modification-timestamp>1600179681</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1083042451&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 춘천연세맑은의원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 피부관리·에스테틱 정규직 모집 공고(경력사원) ]]>
+</title>
+<location/>
+<job-type code='1'>정규직</job-type>
+<industry code='701'>의료(진료과목별)</industry>
+<job-category code='1111'>미용·피부관리·애견</job-category>
+<industry-keyword-code>70117</industry-keyword-code>
+<job-category-keyword-code>111105</job-category-keyword-code>
+<experience-level code='2' min='1' max='10'>경력 1~10년</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>3</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>피부과,피부관리·에스테틱</keyword>
+<salary code='9'>2,400~2,600만원</salary>
+</job>
+<job>
+<id>38783230</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783230&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179649</posting-timestamp>
+<posting-date>2020-09-15T23:20:49+0900</posting-date>
+<modification-timestamp>1600179649</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=7038101733&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 케어니티 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [계약직] 外 경력무관 채용 ]]>
+</title>
+<location code='113090'>
+<![CDATA[ 전북 &gt; 익산시 ]]>
+</location>
+<job-type code='10,2'>계약직 (정규직 전환가능),계약직</job-type>
+<industry code='305'>포털·인터넷·컨텐츠</industry>
+<job-category code='1204,406,412'>캐릭터·만화·애니,컨텐츠·사이트운영,웹디자인</job-category>
+<industry-keyword-code>30502|30504|30515|30516|30517</industry-keyword-code>
+<job-category-keyword-code>120402,120403,120404,40601,40603,40612,40614,41203,41213,41214</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>11</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>여성포털,인터넷뉴스·신문,인터넷생활정보,커뮤니티,컨텐츠제공,UI·UX디자인,사이트운영,쇼핑몰·오픈마켓,애니메이션,일러스트레이터,캐릭터,컨텐츠운영,컨텐츠제작,포토샵,프리미어</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783229</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783229&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179560</posting-timestamp>
+<posting-date>2020-09-15T23:19:20+0900</posting-date>
+<modification-timestamp>1600214729</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1600613999</expiration-timestamp>
+<expiration-date>2020-09-20T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1148712112&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 주식회사 라온서치 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ FPGA 코딩 및 H/W 설계 담당자 채용(1년~6년) ]]>
+</title>
+<location code='101150'>
+<![CDATA[ 서울 &gt; 서초구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='301'>솔루션·SI·ERP·CRM</industry>
+<job-category code='308'>전기·전자·제어</job-category>
+<industry-keyword-code>30116</industry-keyword-code>
+<job-category-keyword-code>30801,30812,30814</job-category-keyword-code>
+<experience-level code='2' min='1' max='6'>경력 1~6년</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>1</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>솔루션업체,자동제어,전기,전자</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783228</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783228&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179527</posting-timestamp>
+<posting-date>2020-09-15T23:18:47+0900</posting-date>
+<modification-timestamp>1600179527</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3529001236&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 커리어파크 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 정규직 채권팀 신입직 채용(일본계대부업체) ]]>
+</title>
+<location code='101010'>
+<![CDATA[ 서울 &gt; 강남구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='402'>대출·캐피탈·여신</industry>
+<job-category code='209,210'>영업기획·관리·지원,TM·아웃바운드</job-category>
+<industry-keyword-code>40201</industry-keyword-code>
+<job-category-keyword-code>20907,21013</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='6'>고등학교졸업이상</required-education-level>
+</position>
+<read-cnt>2</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>캐피탈,채권관리,채권추심</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783227</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783227&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179502</posting-timestamp>
+<posting-date>2020-09-15T23:18:22+0900</posting-date>
+<modification-timestamp>1600214777</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3529001236&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 커리어파크 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 정규직 채권팀채용(일본계대부업체)(경력) ]]>
+</title>
+<location code='101010'>
+<![CDATA[ 서울 &gt; 강남구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='402'>대출·캐피탈·여신</industry>
+<job-category code='209,210'>영업기획·관리·지원,TM·아웃바운드</job-category>
+<industry-keyword-code>40201</industry-keyword-code>
+<job-category-keyword-code>20907,21013</job-category-keyword-code>
+<experience-level code='2' min='1' max='5'>경력 1~5년</experience-level>
+<required-education-level code='6'>고등학교졸업이상</required-education-level>
+</position>
+<read-cnt>2</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>캐피탈,채권관리,채권추심</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783226</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783226&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179496</posting-timestamp>
+<posting-date>2020-09-15T23:18:16+0900</posting-date>
+<modification-timestamp>1600214740</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1600613999</expiration-timestamp>
+<expiration-date>2020-09-20T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1148712112&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 주식회사 라온서치 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 의료/미용기기 회로설계 담당자 (3년~) ]]>
+</title>
+<location code='101150'>
+<![CDATA[ 서울 &gt; 서초구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='201'>전기·전자·제어</industry>
+<job-category code='308'>전기·전자·제어</job-category>
+<industry-keyword-code>20106|20121|20122</industry-keyword-code>
+<job-category-keyword-code>30808,30816,30820,30821,30829</job-category-keyword-code>
+<experience-level code='2' min='3' max='0'>경력3년↑</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>3</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>Firmware,Hardware,회로설계,Firmware,Hardware,전기·전자회로,전기설계,전장</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783224</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783224&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179389</posting-timestamp>
+<posting-date>2020-09-15T23:16:29+0900</posting-date>
+<modification-timestamp>1600179568</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=8128601463&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)평신 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 총무 경력무관 모집합니다(정규직) ]]>
+</title>
+<location code='114130'>
+<![CDATA[ 충북 &gt; 청주시 흥덕구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='211'>금속·재료·철강·요업</industry>
+<job-category code='102'>총무·법무·사무</job-category>
+<industry-keyword-code>21103|21104|21107</industry-keyword-code>
+<job-category-keyword-code>10202,10207</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='6'>고등학교졸업이상</required-education-level>
+</position>
+<read-cnt>30</read-cnt>
+<apply-cnt>1</apply-cnt>
+<keyword>세라믹스,신소재,요업,자산관리,총무</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783223</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783223&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179342</posting-timestamp>
+<posting-date>2020-09-15T23:15:42+0900</posting-date>
+<modification-timestamp>1600179607</modification-timestamp>
+<opening-timestamp>1600246800</opening-timestamp>
+<expiration-timestamp>1602428399</expiration-timestamp>
+<expiration-date>2020-10-11T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1798801093&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)밴더스 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 건설자재 생산 및 관리 경력무관 직원 모집 ]]>
+</title>
+<location code='101010'>
+<![CDATA[ 서울 &gt; 강남구 ]]>
+</location>
+<job-type code='1,10,11,2,4'>정규직,계약직 (정규직 전환가능),인턴직 (정규직 전환가능),계약직,인턴직</job-type>
+<industry code='213'>기타제조업</industry>
+<job-category code='315'>생산·제조·포장·조립</job-category>
+<industry-keyword-code>21301|21303</industry-keyword-code>
+<job-category-keyword-code>31501,31502,31512,31516</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>3</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>기타제조업,제조업 회사본사,검사·검품,생산,제조·가공,포장·코팅</keyword>
+<salary code='8'>2,200~2,400만원</salary>
+</job>
+<job>
+<id>38783222</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783222&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600179104</posting-timestamp>
+<posting-date>2020-09-15T23:11:44+0900</posting-date>
+<modification-timestamp>1600179104</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3239100013&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 렛츠에듀편입학원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [교수부] 영어강사 경력 채용 ]]>
+</title>
+<location code='101060'>
+<![CDATA[ 서울 &gt; 광진구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='606,611'>입시·보습·속셈학원,외국어·어학원</job-category>
+<industry-keyword-code>60212</industry-keyword-code>
+<job-category-keyword-code>60601,60606,61108</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>2</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>편입학원,어학원강사,일반학원강사,입시학원강사</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783221</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783221&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178984</posting-timestamp>
+<posting-date>2020-09-15T23:09:44+0900</posting-date>
+<modification-timestamp>1600178984</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2108701441&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)더피치 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ (스타트업) 연구행정지원 전문가를 꿈꾸시는 인재를 찾습니다. ]]>
+</title>
+<location code='105040'>
+<![CDATA[ 대전 &gt; 유성구 ]]>
+</location>
+<job-type code='1,10,2'>정규직,계약직 (정규직 전환가능),계약직</job-type>
+<industry code='301'>솔루션·SI·ERP·CRM</industry>
+<job-category code='102,108'>총무·법무·사무,사무보조·문서작성</job-category>
+<industry-keyword-code>30118</industry-keyword-code>
+<job-category-keyword-code>10207,10210,10804,10805,10812</job-category-keyword-code>
+<experience-level code='3' min='1' max='10'>신입/경력</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>20</read-cnt>
+<apply-cnt>1</apply-cnt>
+<keyword>소프트웨어개발,OA,사무,사무보조,전산입력·편집,총무</keyword>
+<salary code='9'>2,400~2,600만원</salary>
+</job>
+<job>
+<id>38783220</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783220&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178976</posting-timestamp>
+<posting-date>2020-09-15T23:09:36+0900</posting-date>
+<modification-timestamp>1600178976</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=8408500424&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)현재어학원 방배캠퍼스 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 현재어학원 방배캠퍼스 내신수업 강사(시급 2만 5천) ]]>
+</title>
+<location code='101150'>
+<![CDATA[ 서울 &gt; 서초구 ]]>
+</location>
+<job-type code='1,14'>정규직,파트</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='606,611'>입시·보습·속셈학원,외국어·어학원</job-category>
+<industry-keyword-code>60206|60211</industry-keyword-code>
+<job-category-keyword-code>60601,60624,61101,61108</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>3</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>어학원,영어학원,어학원강사,영어,일반학원강사,전임강사</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783219</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783219&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178807</posting-timestamp>
+<posting-date>2020-09-15T23:06:47+0900</posting-date>
+<modification-timestamp>1600178807</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3200201697&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 이터스 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 정자점이터스 주방직원(1) 채용중 / 주5 / 230만원 ]]>
+</title>
+<location code='102190'>
+<![CDATA[ 경기 &gt; 성남시 분당구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='109'>외식업·식음료</industry>
+<job-category code='1107,1112'>외식·식음료,요리·제빵사·영양사</job-category>
+<industry-keyword-code>10901|10935</industry-keyword-code>
+<job-category-keyword-code>110704,111212</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>2</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>음식료,테이크아웃,매니져,주방보조</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783218</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783218&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178763</posting-timestamp>
+<posting-date>2020-09-15T23:06:03+0900</posting-date>
+<modification-timestamp>1600179132</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1600441199</expiration-timestamp>
+<expiration-date>2020-09-18T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=5368601763&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)지니컵 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 솔리드웍스, IOS 개발자 채용 ]]>
+</title>
+<location code='107010'>
+<![CDATA[ 울산 &gt; 남구 ]]>
+</location>
+<job-type code='10,2'>계약직 (정규직 전환가능),계약직</job-type>
+<industry code='301'>솔루션·SI·ERP·CRM</industry>
+<job-category code='318,407'>설계·CAD·CAM,응용프로그램개발</job-category>
+<industry-keyword-code>30118</industry-keyword-code>
+<job-category-keyword-code>31801,40701</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>19</read-cnt>
+<apply-cnt>1</apply-cnt>
+<keyword>소프트웨어개발,CAD,IOS앱개발</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783217</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783217&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178723</posting-timestamp>
+<posting-date>2020-09-15T23:05:23+0900</posting-date>
+<modification-timestamp>1600178723</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2529500102&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 서천한산식품 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [대구] 판매·매장관리 아르바이트 모집합니다 ]]>
+</title>
+<location code='104020'>
+<![CDATA[ 대구 &gt; 달서구 ]]>
+</location>
+<job-type code='5'>아르바이트</job-type>
+<industry code='802'>판매(상품품목별)</industry>
+<job-category code='203'>판매·매장관리</job-category>
+<industry-keyword-code>80201</industry-keyword-code>
+<job-category-keyword-code>20302,20303,20306</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>8</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>판매,매장관리,매장판매,판매관리</keyword>
+<salary code='103'/>
+</job>
+<job>
+<id>38783216</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783216&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178713</posting-timestamp>
+<posting-date>2020-09-15T23:05:13+0900</posting-date>
+<modification-timestamp>1600178713</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=8128601463&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)평신 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [계약직&기간제] 해외영업.무역실무 경력사원 채용합니다 ]]>
+</title>
+<location code='114130'>
+<![CDATA[ 충북 &gt; 청주시 흥덕구 ]]>
+</location>
+<job-type code='10,16,2'>계약직 (정규직 전환가능),기간제,계약직</job-type>
+<industry code='211'>금속·재료·철강·요업</industry>
+<job-category code='316'>비금속·요업·신소재</job-category>
+<industry-keyword-code>21103|21104|21107</industry-keyword-code>
+<job-category-keyword-code>31602,31605,31610</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>4</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>세라믹스,신소재,요업,세라믹스,신소재,요업</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783215</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783215&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178711</posting-timestamp>
+<posting-date>2020-09-15T23:05:11+0900</posting-date>
+<modification-timestamp>1600178711</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1600700399</expiration-timestamp>
+<expiration-date>2020-09-21T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2148663480&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 매버릭컨설팅(주) ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 6시그마 전문가 (부장-이사) ]]>
+</title>
+<location code='101150'>
+<![CDATA[ 서울 &gt; 서초구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='204'>석유·화학·에너지</industry>
+<job-category code='309'>생산관리·품질관리</job-category>
+<industry-keyword-code>20404</industry-keyword-code>
+<job-category-keyword-code>30913</job-category-keyword-code>
+<experience-level code='2' min='15' max='0'>경력15년↑</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>2</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>화학,6시그마</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783214</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783214&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178705</posting-timestamp>
+<posting-date>2020-09-15T23:05:05+0900</posting-date>
+<modification-timestamp>1600178705</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=7980700218&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 현대코맥스 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 로비폰,비디오폰,디지털 도어락,CCTV 설치공사 부문 담당자 채용 ]]>
+</title>
+<location code='101100'>
+<![CDATA[ 서울 &gt; 도봉구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='903'>환경·설비</industry>
+<job-category code='308,410,903'>전기·전자·제어,통신·모바일,전기·소방·통신·설비</job-category>
+<industry-keyword-code>90307|90308</industry-keyword-code>
+<job-category-keyword-code>30803,41034,90303</job-category-keyword-code>
+<experience-level code='2' min='2' max='0'>경력2년↑</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>2</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>전기설비,통신설비,무선통신,통신,통신설비</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783213</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783213&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178637</posting-timestamp>
+<posting-date>2020-09-15T23:03:57+0900</posting-date>
+<modification-timestamp>1600178637</modification-timestamp>
+<opening-timestamp>1600178400</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=5558701742&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 반석엔지니어링주식회사 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 전기통신설계와 관리업무를 함께할 가족을 찾습니다. ]]>
+</title>
+<location code='102050'>
+<![CDATA[ 경기 &gt; 고양시 일산서구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='903'>환경·설비</industry>
+<job-category code='108,308'>사무보조·문서작성,전기·전자·제어</job-category>
+<industry-keyword-code>90307|90308</industry-keyword-code>
+<job-category-keyword-code>10812,30808</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>5</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>전기설비,통신설비,사무보조,전기설계</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783212</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783212&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178499</posting-timestamp>
+<posting-date>2020-09-15T23:01:39+0900</posting-date>
+<modification-timestamp>1600178499</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2529500102&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 서천한산식품 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [대구] 판매·매장관리 아르바이트 채용 ]]>
+</title>
+<location code='104020'>
+<![CDATA[ 대구 &gt; 달서구 ]]>
+</location>
+<job-type code='5'>아르바이트</job-type>
+<industry code='802'>판매(상품품목별)</industry>
+<job-category code='203'>판매·매장관리</job-category>
+<industry-keyword-code>80201</industry-keyword-code>
+<job-category-keyword-code>20302,20303,20306</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>1</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>판매,매장관리,매장판매,판매관리</keyword>
+<salary code='103'/>
+</job>
+<job>
+<id>38783211</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783211&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178463</posting-timestamp>
+<posting-date>2020-09-15T23:01:03+0900</posting-date>
+<modification-timestamp>1600178463</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1083801927&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 공차 청주성안길점 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 공차 청주성안길점 매니저 모집합니다(경력) ]]>
+</title>
+<location code='114120'>
+<![CDATA[ 충북 &gt; 청주시 상당구 ]]>
+</location>
+<job-type code='10,2'>계약직 (정규직 전환가능),계약직</job-type>
+<industry code='109'>외식업·식음료</industry>
+<job-category code='1107'>외식·식음료</job-category>
+<industry-keyword-code>10917</industry-keyword-code>
+<job-category-keyword-code>110704</job-category-keyword-code>
+<experience-level code='2' min='1' max='0'>경력1년↑</experience-level>
+<required-education-level code='6'>고등학교졸업이상</required-education-level>
+</position>
+<read-cnt>5</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>프랜차이즈,매니져</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783210</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783210&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178319</posting-timestamp>
+<posting-date>2020-09-15T22:58:39+0900</posting-date>
+<modification-timestamp>1600178319</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1138623171&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)하이윌테크놀로지 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ JAVA 신입 SI 개발자 모집 ]]>
+</title>
+<location code='101070'>
+<![CDATA[ 서울 &gt; 구로구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='301'>솔루션·SI·ERP·CRM</industry>
+<job-category code='404,407'>웹개발,응용프로그램개발</job-category>
+<industry-keyword-code>30101</industry-keyword-code>
+<job-category-keyword-code>40404,40716,40719,40720</job-category-keyword-code>
+<experience-level code='3' min='3' max='0'>신입/경력</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>1</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>SI·시스템통합,Java,Java·JSP,OpenGL,Oracle</keyword>
+<salary code='9'>2,400~2,600만원</salary>
+</job>
+<job>
+<id>38783209</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783209&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178314</posting-timestamp>
+<posting-date>2020-09-15T22:58:34+0900</posting-date>
+<modification-timestamp>1600178314</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1601045999</expiration-timestamp>
+<expiration-date>2020-09-25T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=5029233467&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 솔빛 태권스쿨 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 줄넘기 전문강사 급구 ]]>
+</title>
+<location code='104070'>
+<![CDATA[ 대구 &gt; 수성구 ]]>
+</location>
+<job-type code='14'>파트</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='606'>입시·보습·속셈학원</job-category>
+<industry-keyword-code>60204</industry-keyword-code>
+<job-category-keyword-code>60604,60615,60625</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='6'>고등학교졸업이상</required-education-level>
+</position>
+<read-cnt>2</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>예체능학원,예체능강사,체육·체대입시,파트강사</keyword>
+<salary code='104'/>
+</job>
+<job>
+<id>38783207</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783207&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178131</posting-timestamp>
+<posting-date>2020-09-15T22:55:31+0900</posting-date>
+<modification-timestamp>1600178130</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1601564399</expiration-timestamp>
+<expiration-date>2020-10-01T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2138801544&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 라포벨(La4Belle) ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ ( La4Belle ) 채용 본사, 센터, 아르바이트 모집 ]]>
+</title>
+<location code='102190'>
+<![CDATA[ 경기 &gt; 성남시 분당구 ]]>
+</location>
+<job-type code='1,5'>정규직,아르바이트</job-type>
+<industry code='122'>뷰티·미용</industry>
+<job-category code='1111'>미용·피부관리·애견</job-category>
+<industry-keyword-code>12202|12204</industry-keyword-code>
+<job-category-keyword-code>111105,111106</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>27</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>다이어트,피부관리,다이어트·비만관리,피부관리·에스테틱</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783206</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783206&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600178112</posting-timestamp>
+<posting-date>2020-09-15T22:55:12+0900</posting-date>
+<modification-timestamp>1600178283</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1138694792&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)코드와이즈 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 빅데이터 (엘라스틱서치) & ML (엘라스틱 ML) 전문가 신입/경력 ]]>
+</title>
+<location code='101130'>
+<![CDATA[ 서울 &gt; 마포구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='301'>솔루션·SI·ERP·CRM</industry>
+<job-category code='416,417'>데이터베이스·DBA,인공지능(AI)·빅데이터</job-category>
+<industry-keyword-code>30101|30105|30108|30112</industry-keyword-code>
+<job-category-keyword-code>41605,41611,41702,41703,41704,41706,41709</job-category-keyword-code>
+<experience-level code='3' min='1' max='5'>신입/경력</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>4</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>DataMining,DBMS,DW,SI·시스템통합,DataAnalysis,ETL,NoSQL,머신러닝,빅데이터,자연어처리(NLP),클라우드</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783205</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783205&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177991</posting-timestamp>
+<posting-date>2020-09-15T22:53:11+0900</posting-date>
+<modification-timestamp>1600178379</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=6599901033&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 제이제이 영어 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 수학강사님을 모십니다. ]]>
+</title>
+<location code='101220'>
+<![CDATA[ 서울 &gt; 은평구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='606'>입시·보습·속셈학원</job-category>
+<industry-keyword-code>60205</industry-keyword-code>
+<job-category-keyword-code>60620</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>10</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>보습학원,수학</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783204</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783204&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177958</posting-timestamp>
+<posting-date>2020-09-15T22:52:38+0900</posting-date>
+<modification-timestamp>1600219689</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2208811661&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)핀커스코리아 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [글로벌식음료] 인테리어,시공관리 (5-10년) ]]>
+</title>
+<location code='101240'>
+<![CDATA[ 서울 &gt; 중구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='109'>외식업·식음료</industry>
+<job-category code='902,905'>건축·인테리어·설계,현장·시공·감리·공무</job-category>
+<industry-keyword-code>10917</industry-keyword-code>
+<job-category-keyword-code>90201,90207,90224,90502,90514,90519</job-category-keyword-code>
+<experience-level code='2' min='5' max='10'>경력 5~10년</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>1</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>프랜차이즈,건축CAD,건축시공,시공,시공감리,인테리어설계,인테리어시공</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783203</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783203&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177948</posting-timestamp>
+<posting-date>2020-09-15T22:52:28+0900</posting-date>
+<modification-timestamp>1600181952</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1988118000</expiration-timestamp>
+<expiration-date>2033-01-01T00:00:00+0900</expiration-date>
+<close-type code='2'>채용시</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2098205326&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (사)대한원격탐사학회 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ (사)대한원격탐사학회 사무원(편집간사) 경력무관 채용 (출산/육 ]]>
+</title>
+<location code='101200'>
+<![CDATA[ 서울 &gt; 영등포구 ]]>
+</location>
+<job-type code='16,2'>기간제,계약직</job-type>
+<industry code='1005'>연구소·컨설팅·조사</industry>
+<job-category code='102,108,610'>총무·법무·사무,사무보조·문서작성,대학교수·행정직</job-category>
+<industry-keyword-code>100501</industry-keyword-code>
+<job-category-keyword-code>10210,10812,61003</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>14</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>연구소,사무,사무보조,행정·사무직</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783202</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783202&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177945</posting-timestamp>
+<posting-date>2020-09-15T22:52:25+0900</posting-date>
+<modification-timestamp>1600177945</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=7247800293&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 베베구쯔몬테소리 양산증산점 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 몬테소리 교사 모집합니다 - 프리랜서 ]]>
+</title>
+<location code='110100'>
+<![CDATA[ 경남 &gt; 양산시 ]]>
+</location>
+<job-type code='9'>프리랜서</job-type>
+<industry code='603'>유아·유치원</industry>
+<job-category code='604'>유치원·보육</job-category>
+<industry-keyword-code>60304</industry-keyword-code>
+<job-category-keyword-code>60402</job-category-keyword-code>
+<experience-level code='2' min='1' max='0'>경력1년↑</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>4</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>보육시설,보육교사</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783201</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783201&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177920</posting-timestamp>
+<posting-date>2020-09-15T22:52:00+0900</posting-date>
+<modification-timestamp>1600178669</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=8378700664&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 쿠팡풀필먼트서비스(유) ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [쿠팡 CFS] 신입/경력 교육 담당자 정규직 채용 : 물류/지게차 ]]>
+</title>
+<location code='102480'>
+<![CDATA[ 경기 &gt; 평택시 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='803'>유통·무역·상사</industry>
+<job-category code='1001,1008,113'>물류·유통·운송,중장비·화물,인사·교육·노무</job-category>
+<industry-keyword-code>80306</industry-keyword-code>
+<job-category-keyword-code>100101,100816,11303</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>12</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>물류센터,교육·인재개발,물류,지게차</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783200</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783200&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177901</posting-timestamp>
+<posting-date>2020-09-15T22:51:41+0900</posting-date>
+<modification-timestamp>1600178032</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3522800297&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 소아벨라 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [온라인사업부] 쥬얼리샵 소아벨라 웹디자이너 채용 ]]>
+</title>
+<location code='102270'>
+<![CDATA[ 경기 &gt; 시흥시 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='304'>쇼핑몰·오픈마켓</industry>
+<job-category code='203,406,412'>판매·매장관리,컨텐츠·사이트운영,웹디자인</job-category>
+<industry-keyword-code>30401|30403|30407</industry-keyword-code>
+<job-category-keyword-code>20306,40612,41203</job-category-keyword-code>
+<experience-level code='3' min='1' max='5'>신입/경력</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>4</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>쇼핑몰,오픈마켓,전자상거래,쇼핑몰·오픈마켓,판매관리,포토샵</keyword>
+<salary code='104'/>
+</job>
+<job>
+<id>38783199</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783199&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177859</posting-timestamp>
+<posting-date>2020-09-15T22:50:59+0900</posting-date>
+<modification-timestamp>1600177859</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=4488800909&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)히숲컴퍼니 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [스타트업 경영/운영/기획/전략] 글로벌 소프트웨어(SaaS) ]]>
+</title>
+<location code='101130'>
+<![CDATA[ 서울 &gt; 마포구 ]]>
+</location>
+<job-type code='1,10,11,2,4'>정규직,계약직 (정규직 전환가능),인턴직 (정규직 전환가능),계약직,인턴직</job-type>
+<industry code='301'>솔루션·SI·ERP·CRM</industry>
+<job-category code='102'>총무·법무·사무</job-category>
+<industry-keyword-code>30118</industry-keyword-code>
+<job-category-keyword-code>10207</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>4</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>소프트웨어개발,총무</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783198</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783198&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177823</posting-timestamp>
+<posting-date>2020-09-15T22:50:23+0900</posting-date>
+<modification-timestamp>1600179773</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3128117683&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 삼우에레코(주) ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [경력 채용] 전자부품 영업 (팀원급) 모집 ]]>
+</title>
+<location code='101080'>
+<![CDATA[ 서울 &gt; 금천구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='201'>전기·전자·제어</industry>
+<job-category code='202,208'>일반영업,기술영업</job-category>
+<industry-keyword-code>20105|20114</industry-keyword-code>
+<job-category-keyword-code>20208,20805</job-category-keyword-code>
+<experience-level code='3' min='1' max='5'>신입/경력</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>6</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>전기,전자,기술영업(일반),일반영업</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783197</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783197&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177766</posting-timestamp>
+<posting-date>2020-09-15T22:49:26+0900</posting-date>
+<modification-timestamp>1600177766</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3489500136&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ KJ수학전문학원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 학생들 가르치는 일에 열정있는 선생님을 모십니다 ]]>
+</title>
+<location code='110120'>
+<![CDATA[ 경남 &gt; 진주시 ]]>
+</location>
+<job-type code='1,14'>정규직,파트</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='606'>입시·보습·속셈학원</job-category>
+<industry-keyword-code>60202</industry-keyword-code>
+<job-category-keyword-code>60606</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>2</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>입시학원,입시학원강사</keyword>
+<salary code='11'>2,800~3,000만원</salary>
+</job>
+<job>
+<id>38783196</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783196&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177715</posting-timestamp>
+<posting-date>2020-09-15T22:48:35+0900</posting-date>
+<modification-timestamp>1600177715</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=8618700712&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)하이프스 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 온라인마케팅 MD 경력직 채용 (오픈마켓/종합몰운영) ]]>
+</title>
+<location code='106090'>
+<![CDATA[ 부산 &gt; 사상구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='304'>쇼핑몰·오픈마켓</industry>
+<job-category code='1005,406,412'>상품기획·MD,컨텐츠·사이트운영,웹디자인</job-category>
+<industry-keyword-code>30401|30403|30407</industry-keyword-code>
+<job-category-keyword-code>100501,100506,40612,41203</job-category-keyword-code>
+<experience-level code='2' min='1' max='0'>경력1년↑</experience-level>
+<required-education-level code='6'>고등학교졸업이상</required-education-level>
+</position>
+<read-cnt>5</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>쇼핑몰,오픈마켓,전자상거래,MD·머천다이저,쇼핑몰·오픈마켓,패션MD,포토샵</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783195</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783195&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177705</posting-timestamp>
+<posting-date>2020-09-15T22:48:25+0900</posting-date>
+<modification-timestamp>1600177705</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=7247800293&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 베베구쯔몬테소리 양산증산점 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 몬테소리 교사 경력 모집합니다 - 프리랜서 ]]>
+</title>
+<location code='110100'>
+<![CDATA[ 경남 &gt; 양산시 ]]>
+</location>
+<job-type code='9'>프리랜서</job-type>
+<industry code='603'>유아·유치원</industry>
+<job-category code='604'>유치원·보육</job-category>
+<industry-keyword-code>60304</industry-keyword-code>
+<job-category-keyword-code>60402</job-category-keyword-code>
+<experience-level code='2' min='1' max='0'>경력1년↑</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>1</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>보육시설,보육교사</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783194</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783194&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177691</posting-timestamp>
+<posting-date>2020-09-15T22:48:11+0900</posting-date>
+<modification-timestamp>1600177691</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1601477999</expiration-timestamp>
+<expiration-date>2020-09-30T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=7622300204&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ HJ이노텍 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 생산, 검사 여직원 채용(아르바이트 근무 평가 후 정규직 전환) ]]>
+</title>
+<location code='111010'>
+<![CDATA[ 경북 &gt; 경산시 ]]>
+</location>
+<job-type code='1,5'>정규직,아르바이트</job-type>
+<industry code='202'>기계·설비·자동차</industry>
+<job-category code='315'>생산·제조·포장·조립</job-category>
+<industry-keyword-code>20214</industry-keyword-code>
+<job-category-keyword-code>31501,31502,31516</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>10</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>자동차부품,검사·검품,생산,제조·가공</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783193</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783193&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177602</posting-timestamp>
+<posting-date>2020-09-15T22:46:42+0900</posting-date>
+<modification-timestamp>1600178343</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=6099231208&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 부경학원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ (계약직) 초 중 영어 경력무관 채용 ]]>
+</title>
+<location code='110150'>
+<![CDATA[ 경남 &gt; 창원시 ]]>
+</location>
+<job-type code='2,5'>계약직,아르바이트</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='606'>입시·보습·속셈학원</job-category>
+<industry-keyword-code>60202</industry-keyword-code>
+<job-category-keyword-code>60601</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>7</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>입시학원,일반학원강사</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783192</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783192&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177490</posting-timestamp>
+<posting-date>2020-09-15T22:44:50+0900</posting-date>
+<modification-timestamp>1600177490</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1198670032&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)한컴모빌리티 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ (한컴모빌리티) 필드인스펙터 모집 ]]>
+</title>
+<location code='102190'>
+<![CDATA[ 경기 &gt; 성남시 분당구 ]]>
+</location>
+<job-type code='2'>계약직</job-type>
+<industry code='306'>네트워크·통신·모바일</industry>
+<job-category code='1104,1105'>주차·세차·주유,AS·서비스·수리</job-category>
+<industry-keyword-code>30631</industry-keyword-code>
+<job-category-keyword-code>110402,110502,110503,110505</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='6'>고등학교졸업이상</required-education-level>
+</position>
+<read-cnt>1</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>모바일APP,서비스,설치·수리,정기·정밀검사,주차관리</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783191</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783191&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177463</posting-timestamp>
+<posting-date>2020-09-15T22:44:23+0900</posting-date>
+<modification-timestamp>1600177463</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2018159549&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 드림테크정보통신(주) ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 사무보조·문서작성 정규직 채용(경력무관) ]]>
+</title>
+<location code='115133'>
+<![CDATA[ 충남 &gt; 천안시 동남구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='306'>네트워크·통신·모바일</industry>
+<job-category code='108'>사무보조·문서작성</job-category>
+<industry-keyword-code>30601|30602</industry-keyword-code>
+<job-category-keyword-code>10807</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='6'>고등학교졸업이상</required-education-level>
+</position>
+<read-cnt>23</read-cnt>
+<apply-cnt>1</apply-cnt>
+<keyword>네트웍구축,통신,워드·문서작성</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783190</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783190&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177450</posting-timestamp>
+<posting-date>2020-09-15T22:44:10+0900</posting-date>
+<modification-timestamp>1600177450</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3399900595&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 디오티(DOT)수학과학학원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 수학 중등강사 채용(최고 대우) ]]>
+</title>
+<location code='111040'>
+<![CDATA[ 경북 &gt; 구미시 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='606'>입시·보습·속셈학원</job-category>
+<industry-keyword-code>60205</industry-keyword-code>
+<job-category-keyword-code>60620</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>1</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>보습학원,수학</keyword>
+<salary code='98'/>
+</job>
+<job>
+<id>38783189</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783189&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177417</posting-timestamp>
+<posting-date>2020-09-15T22:43:37+0900</posting-date>
+<modification-timestamp>1600177418</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3548600221&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 유한회사 유파교육 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 학원운영&교육상담·안내外 정규직 모집합니다(경력무관) ]]>
+</title>
+<location code='102330'>
+<![CDATA[ 경기 &gt; 안양시 동안구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='609'>학원관리·운영·상담</job-category>
+<industry-keyword-code>60202|60205|60213</industry-keyword-code>
+<job-category-keyword-code>60901,60903,60908</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>5</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>논술학원,보습학원,입시학원,교육상담·안내,학원에이전트,학원운영</keyword>
+<salary code='10'>2,600~2,800만원</salary>
+</job>
+<job>
+<id>38783188</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783188&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177371</posting-timestamp>
+<posting-date>2020-09-15T22:42:51+0900</posting-date>
+<modification-timestamp>1600177371</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1601305199</expiration-timestamp>
+<expiration-date>2020-09-28T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=4180843910&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 대자인병원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 대자인병원 신규 (경력) 간호사 채용 ]]>
+</title>
+<location code='113130'>
+<![CDATA[ 전북 &gt; 전주시 덕진구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='702'>의료(병원종류별)</industry>
+<job-category code='1304'>간호사</job-category>
+<industry-keyword-code>70202</industry-keyword-code>
+<job-category-keyword-code>130401</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>8</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>종합병원,간호사</keyword>
+<salary code='11'>2,800~3,000만원</salary>
+</job>
+<job>
+<id>38783187</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783187&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177271</posting-timestamp>
+<posting-date>2020-09-15T22:41:11+0900</posting-date>
+<modification-timestamp>1600177271</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=8458701121&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)엠프렌즈 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 뷰티, 리빙 인플루언서 & 디지털 마케팅 경력자 충원 ]]>
+</title>
+<location code='101180'>
+<![CDATA[ 서울 &gt; 송파구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='504'>광고·홍보·전시</industry>
+<job-category code='119'>마케팅·광고·분석</job-category>
+<industry-keyword-code>50404|50405</industry-keyword-code>
+<job-category-keyword-code>11902,11905,11912,11914,11918</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>2</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>광고대행사,홍보대행사,마케팅전략·기획,미디어플래닝,시장조사·분석,온라인마케팅,입소문·바이럴</keyword>
+<salary code='10'>2,600~2,800만원</salary>
+</job>
+<job>
+<id>38783185</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783185&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177199</posting-timestamp>
+<posting-date>2020-09-15T22:39:59+0900</posting-date>
+<modification-timestamp>1600177199</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1601305199</expiration-timestamp>
+<expiration-date>2020-09-28T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=4180843910&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 대자인병원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 대자인병원 재무팀/ 구매팀 의공기사/인사기획팀 채용 ]]>
+</title>
+<location code='113130'>
+<![CDATA[ 전북 &gt; 전주시 덕진구 ]]>
+</location>
+<job-type code='10,2'>계약직 (정규직 전환가능),계약직</job-type>
+<industry code='702'>의료(병원종류별)</industry>
+<job-category code='113,114,1306'>인사·교육·노무,회계·재무·세무·IR,의료기사</job-category>
+<industry-keyword-code>70202</industry-keyword-code>
+<job-category-keyword-code>11301,11303,11312,11313,11317,11402,11403,11404,11416,11417,130615</job-category-keyword-code>
+<experience-level code='2' min='1' max='0'>경력1년↑</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>17</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>종합병원,HRD·HRM,경영지원,교육·인재개발,노무·노사관리,세무,원가회계,의공기사,인사,인사기획,자금운용·조달,재무</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783184</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783184&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177142</posting-timestamp>
+<posting-date>2020-09-15T22:39:02+0900</posting-date>
+<modification-timestamp>1600177629</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1601305199</expiration-timestamp>
+<expiration-date>2020-09-28T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=4180843910&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 대자인병원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 대자인병원 간호조무사/응급구조사/작업치료사 채용 ]]>
+</title>
+<location code='113130'>
+<![CDATA[ 전북 &gt; 전주시 덕진구 ]]>
+</location>
+<job-type code='10,2'>계약직 (정규직 전환가능),계약직</job-type>
+<industry code='702'>의료(병원종류별)</industry>
+<job-category code='1305,1306'>간호조무사,의료기사</job-category>
+<industry-keyword-code>70202</industry-keyword-code>
+<job-category-keyword-code>130501,130610,130611</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>10</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>종합병원,간호조무사,응급구조사,작업치료사</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783183</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783183&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600177043</posting-timestamp>
+<posting-date>2020-09-15T22:37:23+0900</posting-date>
+<modification-timestamp>1600177043</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1601305199</expiration-timestamp>
+<expiration-date>2020-09-28T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=4180843910&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 대자인병원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 대자인병원 방사선사 / 치위생사/초음파실 어시스트 채용 ]]>
+</title>
+<location code='113130'>
+<![CDATA[ 전북 &gt; 전주시 덕진구 ]]>
+</location>
+<job-type code='10,2'>계약직 (정규직 전환가능),계약직</job-type>
+<industry code='702'>의료(병원종류별)</industry>
+<job-category code='1306'>의료기사</job-category>
+<industry-keyword-code>70202</industry-keyword-code>
+<job-category-keyword-code>130602,130604</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>7</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>종합병원,방사선사,치과위생사</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783182</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783182&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176998</posting-timestamp>
+<posting-date>2020-09-15T22:36:38+0900</posting-date>
+<modification-timestamp>1600176998</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1071997773&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 유니커리어 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 해외영업총괄 임원-상무/전무급 채용 ]]>
+</title>
+<location code='101070'>
+<![CDATA[ 서울 &gt; 구로구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='205'>섬유·의류·패션</industry>
+<job-category code='1002'>해외영업·무역영업</job-category>
+<industry-keyword-code>20503</industry-keyword-code>
+<job-category-keyword-code>100209,100210,100211,100212,100214</job-category-keyword-code>
+<experience-level code='2' min='20' max='0'>경력20년↑</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>3</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>의류·의상,바이어개발,바이어관리,바이어상담,오더관리,해외영업</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783179</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783179&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176887</posting-timestamp>
+<posting-date>2020-09-15T22:34:47+0900</posting-date>
+<modification-timestamp>1600176887</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1600354799</expiration-timestamp>
+<expiration-date>2020-09-17T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1138197566&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)코리아휴먼리소시스 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ NI SI 기술영업 팀장급 언택트 OTT 인터넷포탈 게임개발 AI 기업 ]]>
+</title>
+<location code='101010'>
+<![CDATA[ 서울 &gt; 강남구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='301'>솔루션·SI·ERP·CRM</industry>
+<job-category code='205'>IT·솔루션영업</job-category>
+<industry-keyword-code>30118</industry-keyword-code>
+<job-category-keyword-code>20504,20506,20508,20511</job-category-keyword-code>
+<experience-level code='2' min='10' max='0'>경력10년↑</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>0</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>소프트웨어개발,HW·SW 영업,SI영업,기술영업(IT),솔루션영업</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783178</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783178&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176857</posting-timestamp>
+<posting-date>2020-09-15T22:34:17+0900</posting-date>
+<modification-timestamp>1600176857</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1601305199</expiration-timestamp>
+<expiration-date>2020-09-28T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=4180843910&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 대자인병원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 대자인병원 보건관리팀/보건관리자/IT의료팀(경력) 채용 ]]>
+</title>
+<location code='113130'>
+<![CDATA[ 전북 &gt; 전주시 덕진구 ]]>
+</location>
+<job-type code='10,2'>계약직 (정규직 전환가능),계약직</job-type>
+<industry code='702'>의료(병원종류별)</industry>
+<job-category code='1306,402'>의료기사,서버·네트워크·보안</job-category>
+<industry-keyword-code>70202</industry-keyword-code>
+<job-category-keyword-code>130614,40201,40203,40207,40226,40234</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>13</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>종합병원,네트워크관리,산업위생관리기사,서버관리,서버구축,시스템운영,정보보안</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783177</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783177&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176717</posting-timestamp>
+<posting-date>2020-09-15T22:31:57+0900</posting-date>
+<modification-timestamp>1600177044</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3609400309&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 한솔어학원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 어학원 영어 강사 채용합니다.(아르바이트) ]]>
+</title>
+<location code='118000'>
+<![CDATA[ 세종 &gt; 세종특별자치시 ]]>
+</location>
+<job-type code='5'>아르바이트</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='611'>외국어·어학원</job-category>
+<industry-keyword-code>60206|60211</industry-keyword-code>
+<job-category-keyword-code>61101</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>3</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>어학원,영어학원,영어</keyword>
+<salary code='104'/>
+</job>
+<job>
+<id>38783176</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783176&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176700</posting-timestamp>
+<posting-date>2020-09-15T22:31:40+0900</posting-date>
+<modification-timestamp>1600176775</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=4067200054&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 제이케이엠티알 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 온라인 판매 관리 사원 모집 (신입/경력자우대) ]]>
+</title>
+<location code='102080'>
+<![CDATA[ 경기 &gt; 광주시 ]]>
+</location>
+<job-type code='1,10,2'>정규직,계약직 (정규직 전환가능),계약직</job-type>
+<industry code='304'>쇼핑몰·오픈마켓</industry>
+<job-category code='406'>컨텐츠·사이트운영</job-category>
+<industry-keyword-code>30401|30403|30406|30407</industry-keyword-code>
+<job-category-keyword-code>40612</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>3</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>B2C,쇼핑몰,오픈마켓,전자상거래,쇼핑몰·오픈마켓</keyword>
+<salary code='8'>2,200~2,400만원</salary>
+</job>
+<job>
+<id>38783175</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783175&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176677</posting-timestamp>
+<posting-date>2020-09-15T22:31:17+0900</posting-date>
+<modification-timestamp>1600176677</modification-timestamp>
+<opening-timestamp>1600182000</opening-timestamp>
+<expiration-timestamp>1602082799</expiration-timestamp>
+<expiration-date>2020-10-07T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1208666237&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)크레비스파트너스 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [인스파이어/디] 크리에이티브전략(C.S.D)팀 신입 마케터 채용 ]]>
+</title>
+<location code='101160'>
+<![CDATA[ 서울 &gt; 성동구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='313'>IT컨설팅</industry>
+<job-category code='101,104,119'>기획·전략·경영,홍보·PR·사보,마케팅·광고·분석</job-category>
+<industry-keyword-code>31301</industry-keyword-code>
+<job-category-keyword-code>10101,10102,10103,10105,10108,10407,10412,10414,11902,11905,11906,11912,11921</job-category-keyword-code>
+<experience-level code='1' min='0' max='0'>신입</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>33</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>IT컨설팅,BM·브랜드매니저,경영기획,광고관리,광고기획,기업홍보,기획,마케팅전략·기획,사업기획,시장조사·분석,온라인마케팅,전략기획,타당성분석,홍보기획</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783174</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783174&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176643</posting-timestamp>
+<posting-date>2020-09-15T22:30:43+0900</posting-date>
+<modification-timestamp>1600176643</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1600354799</expiration-timestamp>
+<expiration-date>2020-09-17T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1138197566&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)코리아휴먼리소시스 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 프랜차이즈 가맹정 슈퍼바이저 경력 매장운영팀 부장급 ]]>
+</title>
+<location code='101160'>
+<![CDATA[ 서울 &gt; 성동구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='214'>식품가공·개발</industry>
+<job-category code='203,309'>판매·매장관리,생산관리·품질관리</job-category>
+<industry-keyword-code>21401</industry-keyword-code>
+<job-category-keyword-code>20302,20305,20313,20321,30904,30910,30915,30916,30917</job-category-keyword-code>
+<experience-level code='2' min='10' max='0'>경력10년↑</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>2</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>식음료,HACCP,ISO,QA ·QC,매장관리,샵마스터,외식·식품,지점관리,품질관리,품질보증</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783173</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783173&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176541</posting-timestamp>
+<posting-date>2020-09-15T22:29:01+0900</posting-date>
+<modification-timestamp>1600176541</modification-timestamp>
+<opening-timestamp>1600182000</opening-timestamp>
+<expiration-timestamp>1603033199</expiration-timestamp>
+<expiration-date>2020-10-18T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1208666237&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)크레비스파트너스 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [인스파이어/디] 디자인팀 인턴 및 신입 채용 ]]>
+</title>
+<location code='101160'>
+<![CDATA[ 서울 &gt; 성동구 ]]>
+</location>
+<job-type code='1,4'>정규직,인턴직</job-type>
+<industry code='313'>IT컨설팅</industry>
+<job-category code='1201,1202,1209'>그래픽디자인·CG,출판·편집디자인,광고·시각디자인</job-category>
+<industry-keyword-code>31301</industry-keyword-code>
+<job-category-keyword-code>120101,120105,120106,120107,120115,120201,120205,120207,120208,120902,120903,120909,120911,120915</job-category-keyword-code>
+<experience-level code='1' min='0' max='0'>신입</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>28</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>IT컨설팅,광고디자인,그래픽디자인,기업이미지,디렉터,디지털디자인,레이아웃·구성,시각디자인,일러스트레이터,카탈로그편집,크리에이티브디렉터,편집디자인,포스터디자인,포토샵,표지디자인</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783172</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783172&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176496</posting-timestamp>
+<posting-date>2020-09-15T22:28:16+0900</posting-date>
+<modification-timestamp>1600176496</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1248167704&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)엔에스 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 인사총무/전산IT관리 채용 ]]>
+</title>
+<location code='114150'>
+<![CDATA[ 충북 &gt; 청주시 청원구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='202'>기계·설비·자동차</industry>
+<job-category code='102,402'>총무·법무·사무,서버·네트워크·보안</job-category>
+<industry-keyword-code>20206</industry-keyword-code>
+<job-category-keyword-code>10202,10207,10222,40203</job-category-keyword-code>
+<experience-level code='3' min='1' max='0'>신입/경력</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>29</read-cnt>
+<apply-cnt>4</apply-cnt>
+<keyword>기계설비,공무,네트워크관리,자산관리,총무</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783170</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783170&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176474</posting-timestamp>
+<posting-date>2020-09-15T22:27:54+0900</posting-date>
+<modification-timestamp>1600176474</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1600354799</expiration-timestamp>
+<expiration-date>2020-09-17T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1138197566&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)코리아휴먼리소시스 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 펌프 파쇄기 Sales Manager 독일기업의 한국현지법인 남양주 ]]>
+</title>
+<location code='102120'>
+<![CDATA[ 경기 &gt; 남양주시 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='202'>기계·설비·자동차</industry>
+<job-category code='202'>일반영업</job-category>
+<industry-keyword-code>20205</industry-keyword-code>
+<job-category-keyword-code>20208,20214,20222</job-category-keyword-code>
+<experience-level code='2' min='3' max='0'>경력3년↑</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>4</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>기계,납품영업,법인영업,일반영업</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783169</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783169&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176459</posting-timestamp>
+<posting-date>2020-09-15T22:27:39+0900</posting-date>
+<modification-timestamp>1600176882</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2969000811&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 증평제일정형외과의원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 간호조무사 모십시다. 월차 4일 ]]>
+</title>
+<location code='114080'>
+<![CDATA[ 충북 &gt; 증평군 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='701'>의료(진료과목별)</industry>
+<job-category code='1305'>간호조무사</job-category>
+<industry-keyword-code>70105</industry-keyword-code>
+<job-category-keyword-code>130501</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>4</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>정형외과,간호조무사</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783168</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783168&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176402</posting-timestamp>
+<posting-date>2020-09-15T22:26:42+0900</posting-date>
+<modification-timestamp>1600187389</modification-timestamp>
+<opening-timestamp>1600171200</opening-timestamp>
+<expiration-timestamp>1600613999</expiration-timestamp>
+<expiration-date>2020-09-20T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=6813200891&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 두루주 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 함께 즐겁게 일할 웹디자이너 및 사무보조(경력1년이상) 모집 ]]>
+</title>
+<location code='102270,108070,108080'>
+<![CDATA[ 경기 &gt; 시흥시,인천 &gt; 서구,인천 &gt; 연수구 ]]>
+</location>
+<job-type code='1,10,2'>정규직,계약직 (정규직 전환가능),계약직</job-type>
+<industry code='214'>식품가공·개발</industry>
+<job-category code='412'>웹디자인</job-category>
+<industry-keyword-code>21402</industry-keyword-code>
+<job-category-keyword-code>41203,41214,41222,41228</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>58</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>식품가공,CSS,HTML ,일러스트레이터,포토샵</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783166</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783166&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176277</posting-timestamp>
+<posting-date>2020-09-15T22:24:37+0900</posting-date>
+<modification-timestamp>1600176277</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=6992500555&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 판토스남양주 노명종 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [남양주] LG전자설치 보조기사 채용 합니다. ]]>
+</title>
+<location code='102120'>
+<![CDATA[ 경기 &gt; 남양주시 ]]>
+</location>
+<job-type code='1,2,5'>정규직,계약직,아르바이트</job-type>
+<industry code='804'>운송·운수·물류</industry>
+<job-category code='1001,1004'>물류·유통·운송,납품·배송·택배</job-category>
+<industry-keyword-code>80410|80414</industry-keyword-code>
+<job-category-keyword-code>100101,100112,100410,100411</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>3</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>배송·택배,운송·운수,납품,물류,배송·운송,운반·하역</keyword>
+<salary code='11'>2,800~3,000만원</salary>
+</job>
+<job>
+<id>38783165</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783165&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176225</posting-timestamp>
+<posting-date>2020-09-15T22:23:45+0900</posting-date>
+<modification-timestamp>1600176225</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=4730901326&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 힐박스미디어컴퍼티 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 피규어,제품 리페인팅 복원 미래의 아티스트를 찾습니다. ]]>
+</title>
+<location code='101010'>
+<![CDATA[ 서울 &gt; 강남구 ]]>
+</location>
+<job-type code='10,12,2'>계약직 (정규직 전환가능),교육생,계약직</job-type>
+<industry code='511'>디자인·설계</industry>
+<job-category code='1207'>디자인기타</job-category>
+<industry-keyword-code>51104|51106|51109</industry-keyword-code>
+<job-category-keyword-code>120701</job-category-keyword-code>
+<experience-level code='1' min='0' max='0'>신입</experience-level>
+<required-education-level code='6'>고등학교졸업이상</required-education-level>
+</position>
+<read-cnt>1</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>공예디자인,산업디자인,전시·공간디자인,기타디자인</keyword>
+<salary code='101'/>
+</job>
+<job>
+<id>38783164</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783164&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176210</posting-timestamp>
+<posting-date>2020-09-15T22:23:30+0900</posting-date>
+<modification-timestamp>1600178246</modification-timestamp>
+<opening-timestamp>1600171200</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=4098654328&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)신성종합무역 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 스트레스 X 웹디자인 오픈마켓 관리 엑셀 포토샵 전문 ]]>
+</title>
+<location code='106090'>
+<![CDATA[ 부산 &gt; 사상구 ]]>
+</location>
+<job-type code='1,2'>정규직,계약직</job-type>
+<industry code='304'>쇼핑몰·오픈마켓</industry>
+<job-category code='108,406,412'>사무보조·문서작성,컨텐츠·사이트운영,웹디자인</job-category>
+<industry-keyword-code>30401|30403|30405|30407</industry-keyword-code>
+<job-category-keyword-code>10802,40612,41203</job-category-keyword-code>
+<experience-level code='3' min='1' max='5'>신입/경력</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>11</read-cnt>
+<apply-cnt>2</apply-cnt>
+<keyword>쇼핑몰,오픈마켓,옥션·경매,전자상거래,Excel·도표,쇼핑몰·오픈마켓,포토샵</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783163</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783163&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176209</posting-timestamp>
+<posting-date>2020-09-15T22:23:29+0900</posting-date>
+<modification-timestamp>1600176209</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2208811661&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)핀커스코리아 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ BD 경력자 채용 ]]>
+</title>
+<location code='101230'>
+<![CDATA[ 서울 &gt; 종로구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='703'>제약·보건·바이오</industry>
+<job-category code='317'>바이오·제약·식품</job-category>
+<industry-keyword-code>70302|70306|70307</industry-keyword-code>
+<job-category-keyword-code>31702,31705,31707,31710,31711</job-category-keyword-code>
+<experience-level code='2' min='5' max='0'>경력5년↑</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>0</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>바이오,생명공학,의약·제약,바이오,유전공학,의약품,임상개발,제약</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783162</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783162&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176183</posting-timestamp>
+<posting-date>2020-09-15T22:23:03+0900</posting-date>
+<modification-timestamp>1600176183</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2208811661&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)핀커스코리아 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 바이오 공정개발 경력 채용 ]]>
+</title>
+<location code='101230'>
+<![CDATA[ 서울 &gt; 종로구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='703'>제약·보건·바이오</industry>
+<job-category code='317'>바이오·제약·식품</job-category>
+<industry-keyword-code>70302|70306|70307</industry-keyword-code>
+<job-category-keyword-code>31702,31705,31707,31710,31711</job-category-keyword-code>
+<experience-level code='2' min='3' max='0'>경력3년↑</experience-level>
+<required-education-level code='9'>석사졸업이상</required-education-level>
+</position>
+<read-cnt>1</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>바이오,생명공학,의약·제약,바이오,유전공학,의약품,임상개발,제약</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783161</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783161&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176154</posting-timestamp>
+<posting-date>2020-09-15T22:22:34+0900</posting-date>
+<modification-timestamp>1600176154</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2208811661&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)핀커스코리아 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 바이오 의약품 RA 팀장 ]]>
+</title>
+<location code='101040'>
+<![CDATA[ 서울 &gt; 강서구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='1005'>연구소·컨설팅·조사</industry>
+<job-category code='317'>바이오·제약·식품</job-category>
+<industry-keyword-code>100502|100505|100506</industry-keyword-code>
+<job-category-keyword-code>31702,31705,31706,31710,31711</job-category-keyword-code>
+<experience-level code='2' min='5' max='0'>경력5년↑</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>1</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>연구원,조사분석,컨설팅,바이오,세포·배양,의약품,임상개발,제약</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783160</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783160&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176086</posting-timestamp>
+<posting-date>2020-09-15T22:21:26+0900</posting-date>
+<modification-timestamp>1600176461</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2018145593&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ DB손해보험(주) ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 3시30분업무종료/DB제공/보상처리담당자 ]]>
+</title>
+<location code='106130'>
+<![CDATA[ 부산 &gt; 연제구 ]]>
+</location>
+<job-type code='8'>위촉직</job-type>
+<industry code='406'>증권·보험·카드</industry>
+<job-category code='210,211,213'>TM·아웃바운드,TM·인바운드,QA·CS강사·수퍼바이저</job-category>
+<industry-keyword-code>40609</industry-keyword-code>
+<job-category-keyword-code>21001,21005,21101,21110,21301</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>5</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>보험사,아웃바운드,인바운드,콜센터관리,콜센터상담,홈쇼핑·쇼핑몰</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783159</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783159&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176067</posting-timestamp>
+<posting-date>2020-09-15T22:21:07+0900</posting-date>
+<modification-timestamp>1600176067</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2212562945&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 아이비지소프트 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 웹,APP,디자이너 ]]>
+</title>
+<location code='105030'>
+<![CDATA[ 대전 &gt; 서구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='301'>솔루션·SI·ERP·CRM</industry>
+<job-category code='412,413'>웹디자인,퍼블리싱·UI개발</job-category>
+<industry-keyword-code>30101|30102|30108|30116|30118</industry-keyword-code>
+<job-category-keyword-code>41213,41224,41225,41228,41301,41303,41304</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>6</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>DataMining,ERP,SI·시스템통합,소프트웨어개발,솔루션업체,HTML ,HTML코딩,UI·UX디자인,모바일UI,웹UI,웹표준·웹접근성,퍼블리셔</keyword>
+<salary code='11'>2,800~3,000만원</salary>
+</job>
+<job>
+<id>38783158</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783158&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600176031</posting-timestamp>
+<posting-date>2020-09-15T22:20:31+0900</posting-date>
+<modification-timestamp>1600214774</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2148813214&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)베라코리아 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 베이커리/제과·제빵 베이커리카페 정규직 채용 ]]>
+</title>
+<location code='102440'>
+<![CDATA[ 경기 &gt; 의왕시 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='109'>외식업·식음료</industry>
+<job-category code='1112'>요리·제빵사·영양사</job-category>
+<industry-keyword-code>10902|10910</industry-keyword-code>
+<job-category-keyword-code>111203,111204</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>6</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>식품·푸드,제과제빵점,베이커리,제과·제빵사</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783157</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783157&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175935</posting-timestamp>
+<posting-date>2020-09-15T22:18:55+0900</posting-date>
+<modification-timestamp>1600175935</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2328700893&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)땡스엔젤 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ (주)땡스엔젤 디자이너 모집 ]]>
+</title>
+<location code='102190'>
+<![CDATA[ 경기 &gt; 성남시 분당구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='119'>렌탈·임대</industry>
+<job-category code='412'>웹디자인</job-category>
+<industry-keyword-code>11901</industry-keyword-code>
+<job-category-keyword-code>41203,41213,41214,41224,41228</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>3</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>렌탈샵,HTML ,UI·UX디자인,웹UI,일러스트레이터,포토샵</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783156</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783156&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175912</posting-timestamp>
+<posting-date>2020-09-15T22:18:32+0900</posting-date>
+<modification-timestamp>1600175992</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>2019567600</expiration-timestamp>
+<expiration-date>2033-12-31T00:00:00+0900</expiration-date>
+<close-type code='3'>상시채용</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1198165121&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)유쾌한생각 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ (주)유쾌한생각 유튜브장비 기업 쇼핑몰 오픈마켓 소셜커머스 MD ]]>
+</title>
+<location code='101050'>
+<![CDATA[ 서울 &gt; 관악구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='304'>쇼핑몰·오픈마켓</industry>
+<job-category code='1002,1005,406'>해외영업·무역영업,상품기획·MD,컨텐츠·사이트운영</job-category>
+<industry-keyword-code>30401|30403</industry-keyword-code>
+<job-category-keyword-code>100231,100501,40612</job-category-keyword-code>
+<experience-level code='3' min='1' max='0'>신입/경력</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>3</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>쇼핑몰,전자상거래,MD ,MD·머천다이저,쇼핑몰·오픈마켓</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783155</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783155&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175881</posting-timestamp>
+<posting-date>2020-09-15T22:18:01+0900</posting-date>
+<modification-timestamp>1600175881</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1988118000</expiration-timestamp>
+<expiration-date>2033-01-01T00:00:00+0900</expiration-date>
+<close-type code='2'>채용시</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2878100057&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)신동양기업 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [인사팀] 인사팀 경력직 채용 ]]>
+</title>
+<location code='104060'>
+<![CDATA[ 대구 &gt; 서구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='901'>건설·건축·토목·시공</industry>
+<job-category code='103,113'>경리·출납·결산,인사·교육·노무</job-category>
+<industry-keyword-code>90101|90109</industry-keyword-code>
+<job-category-keyword-code>10308,10310,10316,11301,11313</job-category-keyword-code>
+<experience-level code='2' min='3' max='0'>경력3년↑</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>13</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>건설현장,건설회사,4대보험,급여관리,노무·노사관리,더존,인사</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783154</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783154&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175867</posting-timestamp>
+<posting-date>2020-09-15T22:17:47+0900</posting-date>
+<modification-timestamp>1600175867</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=6369200459&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 옥수해법중국어교습소 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ (전임) 중국어교육 경력무관 채용 공고 ]]>
+</title>
+<location code='101160'>
+<![CDATA[ 서울 &gt; 성동구 ]]>
+</location>
+<job-type code='15'>전임</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='609'>학원관리·운영·상담</job-category>
+<industry-keyword-code>60210</industry-keyword-code>
+<job-category-keyword-code>60908</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>4</read-cnt>
+<apply-cnt>1</apply-cnt>
+<keyword>중국어학원,학원운영</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783153</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783153&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175843</posting-timestamp>
+<posting-date>2020-09-15T22:17:23+0900</posting-date>
+<modification-timestamp>1600175843</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1091545744&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 아이티웨이브 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 자바 웹프로그래머 JAVA, JSP 웹개발자 모집 ]]>
+</title>
+<location code='101040'>
+<![CDATA[ 서울 &gt; 강서구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='301'>솔루션·SI·ERP·CRM</industry>
+<job-category code='404'>웹개발</job-category>
+<industry-keyword-code>30112|30116|30117|30118|30120</industry-keyword-code>
+<job-category-keyword-code>40404,40409,40413,40421</job-category-keyword-code>
+<experience-level code='1' min='0' max='0'>신입</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>5</read-cnt>
+<apply-cnt>1</apply-cnt>
+<keyword>ASP,DBMS,SM,소프트웨어개발,솔루션업체,Ajax,HTML,Java·JSP,XML</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783152</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783152&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175705</posting-timestamp>
+<posting-date>2020-09-15T22:15:05+0900</posting-date>
+<modification-timestamp>1600175705</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1988118000</expiration-timestamp>
+<expiration-date>2033-01-01T00:00:00+0900</expiration-date>
+<close-type code='2'>채용시</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2878100057&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)신동양기업 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ [관리부] 원가관리 직원채용(대리급) ]]>
+</title>
+<location code='104060'>
+<![CDATA[ 대구 &gt; 서구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='901'>건설·건축·토목·시공</industry>
+<job-category code='114,209,309'>회계·재무·세무·IR,영업기획·관리·지원,생산관리·품질관리</job-category>
+<industry-keyword-code>90101|90109</industry-keyword-code>
+<job-category-keyword-code>11416,20911,30905,30909</job-category-keyword-code>
+<experience-level code='2' min='3' max='0'>경력3년↑</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>7</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>건설현장,건설회사,매출분석·관리,원가관리,원가회계,자재관리</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783151</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783151&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175677</posting-timestamp>
+<posting-date>2020-09-15T22:14:37+0900</posting-date>
+<modification-timestamp>1600175677</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1601477999</expiration-timestamp>
+<expiration-date>2020-09-30T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=5049605679&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 동호소아청소년과 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 간호조무사 정규직 모집합니다 - 경력사원 ]]>
+</title>
+<location code='104040'>
+<![CDATA[ 대구 &gt; 동구 ]]>
+</location>
+<job-type code='1,5'>정규직,아르바이트</job-type>
+<industry code='701'>의료(진료과목별)</industry>
+<job-category code='1305'>간호조무사</job-category>
+<industry-keyword-code>70107</industry-keyword-code>
+<job-category-keyword-code>130501</job-category-keyword-code>
+<experience-level code='2' min='1' max='0'>경력1년↑</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>10</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>소아과,간호조무사</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783150</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783150&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175599</posting-timestamp>
+<posting-date>2020-09-15T22:13:19+0900</posting-date>
+<modification-timestamp>1600175599</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=6849000532&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ STN에스티엔영어학원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ STN영어학원 사무보조 및 영문 타이핑 조교 채용 ]]>
+</title>
+<location code='106160'>
+<![CDATA[ 부산 &gt; 해운대구 ]]>
+</location>
+<job-type code='5'>아르바이트</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='108,609,611'>사무보조·문서작성,학원관리·운영·상담,외국어·어학원</job-category>
+<industry-keyword-code>60211</industry-keyword-code>
+<job-category-keyword-code>10807,60906,61101</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>23</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>영어학원,수강생관리,영어,워드·문서작성</keyword>
+<salary code='104'/>
+</job>
+<job>
+<id>38783149</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783149&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175591</posting-timestamp>
+<posting-date>2020-09-15T22:13:11+0900</posting-date>
+<modification-timestamp>1600175591</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3968701390&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)네오헬스테크널러지 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 경영/사업기획, 국책과제 관리, 사무보조外 정규직 채용 ]]>
+</title>
+<location code='110150'>
+<![CDATA[ 경남 &gt; 창원시 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='212'>조선·항공·우주</industry>
+<job-category code='101,102,103'>기획·전략·경영,총무·법무·사무,경리·출납·결산</job-category>
+<industry-keyword-code>21202|21203</industry-keyword-code>
+<job-category-keyword-code>10102,10103,10108,10111,10202,10207,10210,10223,10302,10309,10310,10316,10319</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>19</read-cnt>
+<apply-cnt>1</apply-cnt>
+<keyword>우주,항공,4대보험,결산·정산,경리,경영기획,급여관리,문서수발,사무,사업기획,자산관리,전략기획,조직관리,총무,출납</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783148</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783148&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175555</posting-timestamp>
+<posting-date>2020-09-15T22:12:35+0900</posting-date>
+<modification-timestamp>1600175555</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=6369200459&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 옥수해법중국어교습소 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 외국어·어학원 아르바이트 채용합니다(경력사원) ]]>
+</title>
+<location code='101160'>
+<![CDATA[ 서울 &gt; 성동구 ]]>
+</location>
+<job-type code='5'>아르바이트</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='611'>외국어·어학원</job-category>
+<industry-keyword-code>60210</industry-keyword-code>
+<job-category-keyword-code>61105</job-category-keyword-code>
+<experience-level code='2' min='1' max='0'>경력1년↑</experience-level>
+<required-education-level code='6'>고등학교졸업이상</required-education-level>
+</position>
+<read-cnt>4</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>중국어학원,중국어·HSK</keyword>
+<salary code='104'/>
+</job>
+<job>
+<id>38783147</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783147&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175531</posting-timestamp>
+<posting-date>2020-09-15T22:12:11+0900</posting-date>
+<modification-timestamp>1600214762</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1048636236&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)밤하늘미디어 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ jtbc 미라클푸드 스튜디오 담당 PD 를 모집합니다. ]]>
+</title>
+<location code='101130'>
+<![CDATA[ 서울 &gt; 마포구 ]]>
+</location>
+<job-type code='9'>프리랜서</job-type>
+<industry code='502'>방송사·케이블</industry>
+<job-category code='711'>방송연출·PD·감독</job-category>
+<industry-keyword-code>50202|50211</industry-keyword-code>
+<job-category-keyword-code>71101</job-category-keyword-code>
+<experience-level code='2' min='5' max='10'>경력 5~10년</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>6</read-cnt>
+<apply-cnt>1</apply-cnt>
+<keyword>미디어,케이블방송,PD·연출</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783144</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783144&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175368</posting-timestamp>
+<posting-date>2020-09-15T22:09:28+0900</posting-date>
+<modification-timestamp>1600175368</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=5049159942&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 영재키움학원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ (신입/경력) 초등 중등 영어 강사 모집 ]]>
+</title>
+<location code='104050'>
+<![CDATA[ 대구 &gt; 북구 ]]>
+</location>
+<job-type code='1,15,5'>정규직,전임,아르바이트</job-type>
+<industry code='601'>초중고·대학</industry>
+<job-category code='611'>외국어·어학원</job-category>
+<industry-keyword-code>60101</industry-keyword-code>
+<job-category-keyword-code>61101,61102</job-category-keyword-code>
+<experience-level code='3' min='1' max='0'>신입/경력</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>2</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>교육기관,영어,영어회화</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783142</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783142&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175211</posting-timestamp>
+<posting-date>2020-09-15T22:06:51+0900</posting-date>
+<modification-timestamp>1600175211</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1600700399</expiration-timestamp>
+<expiration-date>2020-09-21T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=4081913550&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 비블리오테크 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 비블리오떼끄 매장판매 1명 / 물류배송 1명 / 쇼핑몰 관리 1명 ]]>
+</title>
+<location code='103050'>
+<![CDATA[ 광주 &gt; 서구 ]]>
+</location>
+<job-type code='1,10,16,17,2'>정규직,계약직 (정규직 전환가능),기간제,무기계약직,계약직</job-type>
+<industry code='803'>유통·무역·상사</industry>
+<job-category code='1001,203,509'>물류·유통·운송,판매·매장관리,외국어·번역·통역</job-category>
+<industry-keyword-code>80301|80303|80305</industry-keyword-code>
+<job-category-keyword-code>100101,100102,100103,100107,100109,20302,20303,20311,20329,20332,50904,50908</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>34</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>무역업,수입유통,유통업,가구·침대·소품,가전판매,국제물류,기타운송,매장관리,매장판매,물류,상품입출고,영어,유통,일본어,재고관리</keyword>
+<salary code='0'>회사내규에 따름</salary>
+</job>
+<job>
+<id>38783141</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783141&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175170</posting-timestamp>
+<posting-date>2020-09-15T22:06:10+0900</posting-date>
+<modification-timestamp>1600175170</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=1258112293&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)한국기능공사 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ (주)한국기능공사 수행기사 모집 ]]>
+</title>
+<location code='102480'>
+<![CDATA[ 경기 &gt; 평택시 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='202'>기계·설비·자동차</industry>
+<job-category code='1007,107,1113'>운전·기사,비서·안내·수행원,가사·청소·육아</job-category>
+<industry-keyword-code>20214</industry-keyword-code>
+<job-category-keyword-code>100704,10705,111303</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>24</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>자동차부품,수행기사,수행비서,청소·미화</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783140</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783140&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175142</posting-timestamp>
+<posting-date>2020-09-15T22:05:42+0900</posting-date>
+<modification-timestamp>1600214743</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3838600627&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)솜씨좋은 유니온미술학원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 홍대 유니온미술학원 입시반(기초디자인) 전임급 선생님 모집 ]]>
+</title>
+<location code='101130'>
+<![CDATA[ 서울 &gt; 마포구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='606'>입시·보습·속셈학원</job-category>
+<industry-keyword-code>60204</industry-keyword-code>
+<job-category-keyword-code>60604</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>2</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>예체능학원,예체능강사</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783139</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783139&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175114</posting-timestamp>
+<posting-date>2020-09-15T22:05:14+0900</posting-date>
+<modification-timestamp>1600175114</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1602773999</expiration-timestamp>
+<expiration-date>2020-10-15T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=6109079474&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 미래신경외과의원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 도수치료에 관심이 있는 물리치료사를 구합니다. ]]>
+</title>
+<location code='107030'>
+<![CDATA[ 울산 &gt; 북구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='701'>의료(진료과목별)</industry>
+<job-category code='1306'>의료기사</job-category>
+<industry-keyword-code>70120</industry-keyword-code>
+<job-category-keyword-code>130605</job-category-keyword-code>
+<experience-level code='2' min='1' max='0'>경력1년↑</experience-level>
+<required-education-level code='7'>대학졸업(2,3년)이상</required-education-level>
+</position>
+<read-cnt>16</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>신경외과,물리치료사</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783138</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783138&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175089</posting-timestamp>
+<posting-date>2020-09-15T22:04:49+0900</posting-date>
+<modification-timestamp>1600217859</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=3838600627&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)솜씨좋은 유니온미술학원 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 홍대 유니온미술학원 입시 (기초소양, 드로잉) 전임 선생님 모집 ]]>
+</title>
+<location code='101130'>
+<![CDATA[ 서울 &gt; 마포구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='602'>학원·어학원</industry>
+<job-category code='606'>입시·보습·속셈학원</job-category>
+<industry-keyword-code>60204</industry-keyword-code>
+<job-category-keyword-code>60604</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='8'>대학교졸업(4년)이상</required-education-level>
+</position>
+<read-cnt>2</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>예체능학원,예체능강사</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783137</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783137&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600175051</posting-timestamp>
+<posting-date>2020-09-15T22:04:11+0900</posting-date>
+<modification-timestamp>1600175051</modification-timestamp>
+<opening-timestamp>1600174800</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=2118885382&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ (주)지우컴퍼니 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ LAB543에서 재무담당자를 모십니다 ]]>
+</title>
+<location code='101010'>
+<![CDATA[ 서울 &gt; 강남구 ]]>
+</location>
+<job-type code='1'>정규직</job-type>
+<industry code='504'>광고·홍보·전시</industry>
+<job-category code='114'>회계·재무·세무·IR</job-category>
+<industry-keyword-code>50401|50404|50413|50414</industry-keyword-code>
+<job-category-keyword-code>11402,11403,11416,11417,11418</job-category-keyword-code>
+<experience-level code='2' min='1' max='2'>경력 1~2년</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>4</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>ATL,BTL,광고기획사,광고대행사,경영지원,세무,원가회계,재무,회계</keyword>
+<salary code='99'>면접후 결정</salary>
+</job>
+<job>
+<id>38783136</id>
+<url>http://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=38783136&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api</url>
+<active>1</active>
+<posting-timestamp>1600174879</posting-timestamp>
+<posting-date>2020-09-15T22:01:19+0900</posting-date>
+<modification-timestamp>1600174879</modification-timestamp>
+<opening-timestamp>1600171200</opening-timestamp>
+<expiration-timestamp>1605365999</expiration-timestamp>
+<expiration-date>2020-11-14T23:59:59+0900</expiration-date>
+<close-type code='1'>접수마감일</close-type>
+<company>
+<name href='http://www.saramin.co.kr/zf_user/company-info/view?csn=4962101205&utm_source=job-search-api&utm_medium=api&utm_campaign=saramin-job-search-api'>
+<![CDATA[ 유정산업 ]]>
+</name>
+</company>
+<position>
+<title>
+<![CDATA[ 건축·인테리어·설계 프리랜서 모집 공고(경력무관) ]]>
+</title>
+<location code='108080'>
+<![CDATA[ 인천 &gt; 연수구 ]]>
+</location>
+<job-type code='9'>프리랜서</job-type>
+<industry code='901'>건설·건축·토목·시공</industry>
+<job-category code='902'>건축·인테리어·설계</job-category>
+<industry-keyword-code>90109</industry-keyword-code>
+<job-category-keyword-code>90223</job-category-keyword-code>
+<experience-level code='0' min='0' max='0'>경력무관</experience-level>
+<required-education-level code='0'>학력무관</required-education-level>
+</position>
+<read-cnt>5</read-cnt>
+<apply-cnt>0</apply-cnt>
+<keyword>건설현장,건축</keyword>
+<salary code='103'/>
+</job>
+</jobs>
+</job-search>
